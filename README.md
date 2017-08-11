@@ -1,40 +1,42 @@
 # Tips-Database
-Playlist -> https://www.youtube.com/playlist?list=PLBBog2r6uMCRB2UJcnEIghiF3ViN5nxtL
+
+- Tips Playlist -> https://www.youtube.com/playlist?list=PLBBog2r6uMCRB2UJcnEIghiF3ViN5nxtL
+- Web Services Playlist -> https://www.youtube.com/playlist?list=PLBBog2r6uMCTsOXlw9xFpgONdKnT2ls3u
+- Spring Boot Playlist -> https://www.youtube.com/playlist?list=PLBBog2r6uMCRcybG1UBB6yAqFZbwjAKHi
+- Spring Playlist -> https://www.youtube.com/playlist?list=PLBBog2r6uMCRglPLPFqxz5pzdE3ApR0Yt
+- Spring MVC Playlist -> https://www.youtube.com/playlist?list=PLBBog2r6uMCSB3UsXcUXEWvwV0wsqF1el
 
 ## Web Services
-- Complete Playlist -> https://www.youtube.com/playlist?list=PLBBog2r6uMCTsOXlw9xFpgONdKnT2ls3u
-- Web Service Tips
-	- Service Definition
-	- Use Contract First Approach
-	- Code First Approach
-	- Governance of APIs
-	- Defining Standards on the lines of YARAS
-	- Build a framework based on the Standards
-	- Have Great Documentation
+
+- Playlist -> https://www.youtube.com/playlist?list=PLBBog2r6uMCTsOXlw9xFpgONdKnT2ls3u
+- Restful Web Service Tips
 	- Consumer First
-- Restful Web Service Tips 
+	- Use Contract First Approach
+	- What is Code First Approach?
+	- Governance of APIs
+	- Defining Organizational Standards - on the lines of YARAS
+	- Build a Standard Organizational Framework
+	- Have Great Documentation
 	- Richardson Maturity Model
-	- Versioning
-	- Content Negotiation
 	- Representation
+	- Versioning
 	- Error Handling
 	- Swagger
 	- Make Great Use of HTTP
-	- HTTP Request Methods
-	- HTTP Response Status
 	- Use Plurals
 	- Use Spring Boot
-	- Monitor your Web Services
+	- Content Negotiation
 - SOAP Web Service Tips
 	- WSDL
 	- JAXB
 	- Wizdler
-	- SOAP 
+	- SOAP
 	- SOAP vs REST
+	- Why did SOA fizzle out?
+- MicroService Tips
 	- What is a microservice?
-	- Microservice vs Web Service
 	- SOA vs Microservice
-
+	
 ## Future Things To Do
 - TODO
 
